@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### 👋 Olá, eu sou **SEU NOME**
+### 👋 Olá, eu sou a Giovana
 
 **`Developer • Problem Solver • Tech Explorer • Future Builder`**
 
@@ -52,11 +52,9 @@ Atualmente, estou focada em:
 
 * 🧠 Aprendizado contínuo
 * 💻 Desenvolvimento de projetos
-* 🤖 Inteligência Artificial
 * 🎨 Interfaces modernas
 * ⚡ Automação
 * 🔬 Experimentação tecnológica
-* 🚀 Transformar ideias em produtos
 
 </td>
 
@@ -89,46 +87,21 @@ Atualmente, estou focada em:
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,html,css,sql,bash&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css,sql,bash&perline=10"/>
 
 ### ⚙️ Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,tailwind,vite&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,vite&perline=8"/>
 
 ### 🧠 AI & Data
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8"/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=8"/>
 
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,nginx&perline=8"/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=8"/>
 
 </div>
 
 ---
 
-## `> TOOLKIT`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,notion,obsidian,discord&perline=8"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-
-</div>
-
----
 
 ## `> PROJECTS`
 
@@ -139,21 +112,6 @@ Atualmente, estou focada em:
 
 <td width="50%" valign="top">
 
-### 🤖 AI Assistant
-
-**Personal AI assistant inspired by futuristic interfaces.**
-
-```text
-AI • Automation • NLP • API
-```
-
-<a href="https://github.com/SEU_USUARIO/ai-assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=ai-assistant&theme=github_dark&hide_border=true"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
 
 ### ⚡ Smart Dashboard
 
@@ -164,7 +122,7 @@ React • TypeScript • APIs • UI
 ```
 
 <a href="https://github.com/SEU_USUARIO/smart-dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=smart-dashboard&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanaArauj013&repo=smart-dashboard&theme=github_dark&hide_border=true"/>
 </a>
 
 </td>
@@ -175,21 +133,6 @@ React • TypeScript • APIs • UI
 
 <td width="50%" valign="top">
 
-### 🧠 Neural Lab
-
-**Experimental playground for AI, automation and machine learning.**
-
-```text
-Python • ML • Data • Experiments
-```
-
-<a href="https://github.com/SEU_USUARIO/neural-lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=neural-lab&theme=github_dark&hide_border=true"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
 
 ### 🌌 Cyber Interface
 
@@ -212,42 +155,13 @@ HTML • CSS • JavaScript • UI
 
 ---
 
-## `> CURRENT.MISSION`
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                  MISSION CONTROL v3.7                     ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  [✓] Improve coding skills                                ║
-║  [✓] Build meaningful projects                            ║
-║  [→] Explore Artificial Intelligence                       ║
-║  [→] Master modern architectures                           ║
-║  [→] Create beautiful digital experiences                 ║
-║  [→] Contribute to Open Source                            ║
-║                                                            ║
-║  NEXT_OBJECTIVE:                                          ║
-║  └── Build something people remember.                     ║
-║                                                            ║
-║  SYSTEM_MESSAGE:                                          ║
-║  "The future is built, not predicted."                    ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## `> GITHUB.MATRIX`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanaArauj013&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaArauj013&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -255,7 +169,7 @@ HTML • CSS • JavaScript • UI
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=GiovanaArauj013&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -265,21 +179,10 @@ HTML • CSS • JavaScript • UI
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GiovanaArauj013&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
----
-
-## `> ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
-
-</div>
-
----
 
 ## `> CONTRIBUTION.PROTOCOL`
 
@@ -287,7 +190,7 @@ HTML • CSS • JavaScript • UI
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/GiovanaArauj013/GiovanaArauj013/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
@@ -299,23 +202,15 @@ HTML • CSS • JavaScript • UI
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/giovana-guilhermina-menezes-garcia">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="https://instagram.com/SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<a href="https://twitter.com/SEU_X">
-<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:giovanaguilherminamga@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/GiovanaArauj013">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
@@ -327,7 +222,7 @@ HTML • CSS • JavaScript • UI
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20SIGNALS&color=00F5FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=GiovanaArauj013&label=PROFILE%20SIGNALS&color=00F5FF&style=for-the-badge"/>
 
 <br><br>
 
