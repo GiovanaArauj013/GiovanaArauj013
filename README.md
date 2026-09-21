@@ -90,6 +90,17 @@ Atualmente, estou focada em:
 
 </div>
 
+> STATISTICS
+
+
+<br> 
+<div align="center"> 
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=GiovanaArauj013&theme=github-dark-blue&hide_border=true"/> 
+
+</div>
+
+
 > SOCIAL.NETWORK
 
 <div align="center">
@@ -102,29 +113,34 @@ Atualmente, estou focada em:
 
 </div>
 
-> PROFILE.SIGNAL
+## `> PROFILE.SIGNAL`
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GiovanaArauj013&label=PROFILE%20SIGNALS&color=008CFF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=GiovanaArauj013&label=PROFILE%20SIGNALS&color=00BFFF&style=for-the-badge"/>
 
 <br><br>
 
-╭────────────────────────────────────────────╮<br>
-│                                            │<br>
-│       ✦ CONNECTION ESTABLISHED ✦          │<br>
-│                                            │<br>
-│       Thanks for visiting my profile.      │<br>
-│                                            │<br>
-│       Stay curious.                        │<br>
-│       Keep building.                       │<br>
-│       Keep exploring.                      │<br>
-│                                            │<br>
-╰────────────────────────────────────────────╯<br>
-SYSTEM STATUS: ONLINE • ALL SYSTEMS NOMINAL
+```text
+╭────────────────────────────────────────────╮
+│                                            │
+│         ✦ CONNECTION ESTABLISHED ✦         │
+│                                            │
+│       Thanks for visiting my profile.      │
+│                                            │
+│        Stay curious.                       │
+│        Keep building.                      │
+│        Keep exploring.                     │
+│                                            │
+╰────────────────────────────────────────────╯
+```
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00BFFF,45:0066FF,100:0D1117&section=footer"/>
+### `SYSTEM STATUS: ONLINE • ALL SYSTEMS NOMINAL`
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00BFFF,45:0066FF,100:0D1117&section=footer"/>
 
 </div>
